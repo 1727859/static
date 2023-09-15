@@ -7,7 +7,7 @@ const stockSW = "/static/uv-sw.js";
 /**
  * List of hostnames that are allowed to run serviceworkers on http:
  */
-const swAllowedHostnames = ["localhost", "127.0.0.1"];
+const swAllowedHostnames = ["203.243.63.16"];
 
 /**
  * Global util
